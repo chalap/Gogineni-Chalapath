@@ -1,0 +1,6 @@
+C:\Project\Chalapathi\PhoneBookApplication\PBAEntitiesLayerLib\bin\Debug\PBAEntitiesLayerLib.dll
+C:\Project\Chalapathi\PhoneBookApplication\PBAEntitiesLayerLib\bin\Debug\PBAEntitiesLayerLib.pdb
+C:\Project\Chalapathi\PhoneBookApplication\PBAEntitiesLayerLib\obj\Debug\PBAEntitiesLayerLib.csprojAssemblyReference.cache
+C:\Project\Chalapathi\PhoneBookApplication\PBAEntitiesLayerLib\obj\Debug\PBAEntitiesLayerLib.csproj.CoreCompileInputs.cache
+C:\Project\Chalapathi\PhoneBookApplication\PBAEntitiesLayerLib\obj\Debug\PBAEntitiesLayerLib.dll
+C:\Project\Chalapathi\PhoneBookApplication\PBAEntitiesLayerLib\obj\Debug\PBAEntitiesLayerLib.pdb
