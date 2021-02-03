@@ -1,0 +1,5 @@
+C:\Project\Chalapathi\PhoneBookApplication\PBAExceptionLib\bin\Debug\PBAExceptionLib.dll
+C:\Project\Chalapathi\PhoneBookApplication\PBAExceptionLib\bin\Debug\PBAExceptionLib.pdb
+C:\Project\Chalapathi\PhoneBookApplication\PBAExceptionLib\obj\Debug\PBAExceptionLib.csproj.CoreCompileInputs.cache
+C:\Project\Chalapathi\PhoneBookApplication\PBAExceptionLib\obj\Debug\PBAExceptionLib.dll
+C:\Project\Chalapathi\PhoneBookApplication\PBAExceptionLib\obj\Debug\PBAExceptionLib.pdb
